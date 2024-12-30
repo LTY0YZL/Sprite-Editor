@@ -1,0 +1,10 @@
+release/animationwidgets.o
+release/canvassizedialog.o
+release/main.o
+release/mainwindow.o
+release/sprite.o
+release/spriteeditor.o
+release/moc_animationwidgets.o
+release/moc_canvassizedialog.o
+release/moc_mainwindow.o
+release/moc_spriteeditor.o

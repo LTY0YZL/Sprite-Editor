@@ -1,0 +1,10 @@
+debug/animationwidgets.o
+debug/canvassizedialog.o
+debug/main.o
+debug/mainwindow.o
+debug/sprite.o
+debug/spriteeditor.o
+debug/moc_animationwidgets.o
+debug/moc_canvassizedialog.o
+debug/moc_mainwindow.o
+debug/moc_spriteeditor.o
